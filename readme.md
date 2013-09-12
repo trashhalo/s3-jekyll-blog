@@ -1,5 +1,8 @@
 # S3 Jekyll Blog
-The purpose of this project is to contains all the pieces one would need to build a [jekyll](http://jekyllrb.com/) blog and deploy it to [Amazon S3](http://aws.amazon.com/s3/) but all of the tools will sit inside a [Vagrant](http://www.vagrantup.com/) box so it will work on anything that vagrant will install onto (including windows!).
+A [vagrant](http://www.vagrantup.com/) encapsulated skeleton repository to build out a
+blog with [jekyll](http://jekyllrb.com/) and deploy it to [amazon s3](http://aws.amazon.com/s3/) with
+[capistrano](http://www.capistranorb.com/). The advantage is you can work on your blog on any machine
+that vagrant supports. Including Windows!
 
 ## Environment Setup
 1. Install [Virtualbox](https://www.virtualbox.org/)
