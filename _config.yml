@@ -1,0 +1,25 @@
+production_url : http://mindjunk.org
+url: http://mindjunk.org
+title: My Sweet S3 Blog
+subscribe_rss: /atom.xml
+disqus_shortname: 
+analytics: 
+author:
+  name: Stephen Solka
+  github: trashhalo
+  twitter: trashhalo
+  email: stephen@mindjunk.org
+  about: http://about.me/ssolka
+cap:
+  bucket: my_s3_bucket_name
+  access_key_id: my_s3_bucket_key_id
+  secret_access_key: my_s3_bucket_secret
+
+source: source
+destination: public
+plugins: plugins
+pygments: true
+markdown: rdiscount
+permalink: /blog/:year/:month/:day/:title/
+rdiscount:
+  extensions: [smart]
