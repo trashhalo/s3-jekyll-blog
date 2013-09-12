@@ -6,7 +6,7 @@ The purpose of this project is to contains all the pieces one would need to buil
 2. Install [Vagrant](http://www.vagrantup.com/)
 
 ## Blog Setup
-1. Clone this repository
+1. Fork and clone this repository
 2. In your clone on the command line run: vagrant up
 3. After the vagrant box comes up ssh into the box: vagrant ssh 
 4. Go to the source code: cd /vagrant 
