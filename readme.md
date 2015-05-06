@@ -1,4 +1,4 @@
-# S3 Jekyll Blog
+# S3 Jekyll Blog!
 A [vagrant](http://www.vagrantup.com/) encapsulated skeleton repository to build out a
 blog with [jekyll](http://jekyllrb.com/) and deploy it to [amazon s3](http://aws.amazon.com/s3/) with
 [capistrano](http://www.capistranorb.com/). The advantage is you can work on your blog on any machine
